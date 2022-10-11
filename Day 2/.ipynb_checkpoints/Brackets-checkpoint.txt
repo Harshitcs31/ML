@@ -1,0 +1,6 @@
+--------------------
+Brackets and their uses
+( )-Function,Expressions,Tuple
+[ ]-List,indexing,slicing
+{ }-Set,Dictionary
+< >-No use in python

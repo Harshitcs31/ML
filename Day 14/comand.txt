@@ -1,0 +1,21 @@
+GIT Preocess
+---------------------------------------
+. Create new responsibility
+. Provide valid name
+. select public resp
+. finish
+
+
+go to your folder( for eg. ML Training)
+type cmd in address bar then enter
+
+GIT Commands.
+-----------------------------------------
+git init  # initialize the GIT Folder
+git add .   # Add all files and folder in git folder
+git config user.name "Garvit Agrawal"
+git config user.email "garvitagrawal2003@gmail.com"
+git remote add origin "yourrepolink.git"
+
+git commit -m "anymessage"
+git push -u orogin main     #or master or whatever branch

@@ -1,0 +1,14 @@
+1. Numeric-----int----> a=5
+               float---> b=04;
+               complex----> c=3+7j;
+
+2. String------str-----a="hello",a='hi',a=''''hi'''';
+                       b=""hello"' (not valid)
+
+3. Tuples-----tuple------a=(2,0.6,"hello",3+4j)
+
+4. Set----set----a={1,0.3,"hihjkhh",9+9j}
+
+5. Dictionary------dict-----{key:value}
+
+6.Boolean--------- True,False

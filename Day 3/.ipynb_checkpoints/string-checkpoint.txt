@@ -1,0 +1,29 @@
+1.String
+ immutable
+----------
+Concept of slicing
+a='Hello'
+He
+a[starting point{including}(by default 0):stop{excluding}(agr kuch nhi likha to end tk le jata h):step(by default 1)]
+
+-----------------------------
+List
+1.[]
+2.homo/hetro
+3.mutable
+4.indexing/slicing, loop
+---------------------------
+
+Tuple(it is fast as compared to list and if we do not want to change element in future then we store it in tuple)
+1.()
+2.comma seperated value
+3.immutable
+4.homo/hetro
+5.indexing/slicing
+---------------------------
+
+Set
+1.{}
+2.unordered
+3.indexing/slicing can't be used
+4.Unique collection

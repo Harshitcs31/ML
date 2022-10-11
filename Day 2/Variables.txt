@@ -1,0 +1,18 @@
+Rules of Variables
+-----------
+1.can't start with Number
+ex
+ 1='Python' //not valid
+ a1='Python' //valid
+
+2.No space
+  a 1='python' //not valid
+
+3.can't use Special character, only underscore(_) is allowed.
+  a$='hello'; //not valid
+  a_1='hi'; //valid
+  _=200 //valid
+
+4.can't use keyword
+
+

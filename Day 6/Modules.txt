@@ -1,0 +1,5 @@
+Module---- it is a .py file;Ex-OS,Math
+Packages----it is a collection of Modules, __init__.py
+Libraries---- It is a collection of Packages
+
+# anaconda instal karna h

@@ -1,0 +1,20 @@
+Looping(indentation is must)
+1.for Loop
+2.While loop
+
+for i in[1,2,3,4,5]:
+     print(i)
+
+----------------------------
+Function:
+1.NO i/p NO o/p
+2.No i/p But o/p
+3.i/p but No o/p
+4.both i/p and o/p
+--------------------------------
+1.Taking Multiple i/p
+2.Returning Multiple o/p
+3.Keyword Argument
+4.Default Values
+5.*args
+6.**kwargs

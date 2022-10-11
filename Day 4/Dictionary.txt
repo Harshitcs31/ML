@@ -1,0 +1,26 @@
+Data Types Dictionary
+-------------------------------------------------------------------------------------------------------
+1. Unordered
+2. Key value pair
+3. indexing/slicing not possible
+-------------------------------------------------------------------------------------------------------
+Statements
+1. Condition/Decision making----- if(suites/Indentation)
+                                  elif(suites/Indentation) 
+                                  else(suites/Indentation)
+2.Looping - for and while
+3.Exception handling-----Try,Except
+-------------------------------------------------------------------------------------------------------
+
+Simple if
+--------
+if age<18:
+    print('A gift is')
+if age>=18 and age<=20:
+    print('a gift')
+    print('a tak')
+if age>20:
+   print('Koi gift nahi hai')
+
+
+

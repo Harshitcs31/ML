@@ -1,0 +1,18 @@
+Python operators
+
+1.Arithmetic Operators
+  +,-,*,/,%,//,**(power opeartor)
+2.Comparison/Relational operator
+  >,<,>=,<=,!=,==
+3.Assignment operator
+  =,+=,-=,/=,//=
+4.Bitwise Operator
+  &,|,^
+5.Logical Operator
+  and,or,not
+6.Identity Operator
+  is ,is not,
+7.Membership Operator
+  in, not in
+
+

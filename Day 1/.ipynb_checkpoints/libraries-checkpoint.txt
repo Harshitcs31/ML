@@ -1,0 +1,6 @@
+Python libraries:-
+1. Data Manupulation---- Numpy, pandas
+2. Data Visulization---Matlpotlib,seaborn,plotly
+3. Machine Learning---scikit-leran,sk-learn
+4. Deep learning----Tensorflow, Keras, Pytorch
+---------------------------------------------------------
